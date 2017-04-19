@@ -1,0 +1,19 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.personal.final_.newactivity_1"
+    android:background="#FFFFFF"
+    android:id="@+id/my_layout">
+    <include
+        android:id="@+id/action_bar"
+        layout="@layout/action_bar"
+        >
+    </include>
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/listView2"
+        android:layout_below="@+id/action_bar"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>

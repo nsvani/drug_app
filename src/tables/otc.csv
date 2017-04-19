@@ -1,0 +1,920 @@
+1,Cimetidine,acid indigestion,,increased saliva production
+2,Calcium carbonate,acid indigestion,loss of libido in patients with prostate cancer,
+3,Aluminum hydroxide,acid indigestion,loss of libido in patients with prostate cancer,
+4,Cinchocaine,acidosis,,
+5,Lansoprazole,acid-reflux disorders (GERD),,abdominal pain
+6,Cimetidine,acid-reflux disorders (GERD),,nausea
+7,Nizatidine,acid-reflux disorders (GERD),cholinergic-type effects,
+8,Fexofenadine,acne,,
+9,Nizatidine,active benign gastric ulcer,salivation,
+10,Nizatidine,active duodenal ulcer,emesis,
+11,Naproxen,acute goat,, 
+12,Magnesium Sulfate,acute nephritis,ECG changes,
+13,Loperamide,acute nonspecific diarrhea,,constipation
+14,Guaifenesin,acute respiratory tract infections,,
+15,Triprolidine,agitation,,irritability
+16,Triprolidine,allergic conjunctivitis,,difficulty with micturition
+17,Promethazine,allergic disorders,,hypotension
+18,Clemastine,allergic rhinitis,,excitement
+19,Triprolidine,allergic rhinitis,,drowsiness
+20,Fluticasone Propionate,allergic rhinitis,,
+21,Pseudoephedrine,allergic rhinitis,dizziness,
+22,Chlorphenamine,allergy,,
+23,Epinephrine,anaphylaxis,,
+24,Minoxidil,androgenic alopecia,sudden weight gain,
+25,Naproxen,ankylosing spondylitis,,indigestion
+26,Caffeine,apnea,,
+27,Fluticasone Propionate,asthma,,
+28,Chlorphenamine,asthma,,
+29,Gentian Violet,bacterial infections,,gastrointestinal irritation
+30,Omeprazole,benign gastric ulcers,,drowsiness 
+31,Ketoconazole,blastomycosis,,
+32,Vitamin C,bone healing,,
+33,Galiximab,bone metastases,,
+34,Naproxen,bursitis,,vomiting
+35,Fexofenadine,callouses,,
+36,Ketoconazole,candidiasis,,
+37,Ketoconazole,candiduria,,
+38,Acetazolamide,centrencephalic epilepsies,,
+39,Gentian Violet,Chagas' disease,,
+40,Ketoconazole,chromomycosis,,
+41,Loperamide,chronic diarrhea,,drowsiness
+42,Cetirizine,chronic idiopathic urticaria,,restlessness
+43,Ketoconazole,chronic mucocutaneous candidiasis,,
+44,Acetazolamide,chronic simple glaucoma,,
+45,Bisacodyl,cleansing of the colon,dry mouth,
+46,Ketoconazole,coccidioidomycosis,,
+47,Docosanol,cold sores,,headache
+48,Clemastine,common cold,,ataxia
+49,Triprolidine,common cold,,hypotension 
+50,Chlorphenamine,common cold,,
+51,Amiloride,congestive heart failure,,dehydration 
+52,Lactulose,constipation,diarrhea,
+53,Phenolphthalein,constipation,,
+54,Nonoxynol-9,contraception,opportunistic infections,
+55,Naphazoline,Corneal vascularity,rebound congestion,degenerative changes in nasal mucous membranes
+56,Fexofenadine,corns,,
+57,Menthol,cough,,
+58,Pseudoephedrine,croup,heart palpitations,
+59,Miconazole,cutaneous candidiasis,,
+60,Selenium Sulfide,dandruff,,
+61,Hydroxypropyl cellulose,decreased corneal sensitivity,,
+62,Vitamin C,delayed wound,, 
+63,Chlorhexidine,dental caries,,
+64,Terbinafine,dermatophyte infections,,
+65,Insulin Regular,diabetes mellitus,Hypoglycemia,
+66,Kaolin,diarrhea,,
+67,Bismuth Subsalicylate,diarrhea,,
+68,Sodium bicarbonate,diarrhea which is often accompanied by a significant loss of bicarbonate,suppression of calcium absorption delayed wound healing,
+69,Meclizine,dizziness,,
+70,Cyclizine,dizziness associated with motion sickness,,dizziness
+71,Acetazolamide,drug-induced edema,,
+72,Ammonium lactate,dry and scaly skin (xerosis),,
+73,Dextromethorphan,dry cough,,
+74,Clofedanol,dry cough,,delirium
+75,Hydroxypropyl cellulose,dryness,,
+76,Omeprazole,duodenal ulcers,,confusion
+77,Ranitidine,dyspepsia,,vomiting
+78,Acetazolamide,edema due to congestive heart failure,,
+79,Bacitracin,empyema,,
+80,Hydrocortisone,endocrine disorders,suppression of calcium absorption,
+81,Sodium lauryl sulfate,enveloped virus,,
+82,Omeprazole,erosive esophagitis,,nausea
+83,Loratadine,erythema,,headache
+84,Pseudoephedrine,Eustachian tube congestion,insomnia,
+85,Bacitracin,eye infections,,
+86,Caffeine,fatigue,,
+87,Acetaminophen,fever,,glutathione depletion
+88,Docosanol,fever blisters,,abdominal pain
+89,Phenol,focal spasticity,,
+90,Fluconazole,fungal infections,,hallucinations
+91,Clotrimazole,fungal infections,,blistering
+92,Gentian Violet,fungal infections,,
+93,Benzocaine,gag reflex,,
+94,Loperamide,gastroenteritis,,lethargy
+95,Omeprazole,gastroesophageal reflux disease (GERD),,blurred vision
+96,Ranitidine,gastroesophageal reflux disease (GERD),,
+97,Famotidine,gastroesophageal reflux disease (GERD),,restlessness
+98,Lansoprazole,gastroinetestinal bleeds,,
+99,Lansoprazole,H. pylori eradication,,diarrhea
+100,Minoxidil,hair loss,rapid heart beat,
+101,Chlorhexidine,hand hygiene,,
+102,Chlorphenamine,hay fever,,
+103,Benzyl alcohol,head lice infestation,,
+104,Omeprazole,heartburn,,tachycardia
+105,Cimetidine,heartburn,,diarrhea
+106,Calcium carbonate,heartburn,headache,
+107,Aluminum hydroxide,heartburn,headache,
+108,Magnesium oxide,heartburn,,irritability
+109,Bismuth Subsalicylate,heartburn,,
+110,Lactulose,hepatic encephalopathy,resultant dehydration,
+111,histamine dihydrochloride,hepatitis (viral, C),
+112,Ketoconazole,histoplasmosis,,
+113,Naphazoline,Hyperaemia,,
+114,Amiloride,hypertension,,electrolyte imbalance
+115,Potassium Iodide,hyperthyroidism,,Psychosis
+116,Calcium carbonate,hypocalcemia,hot flashes,
+117,Magnesium Sulfate,hypomagnesemia,urinary retention,
+118,Phenylephrine,hypotension,,
+119,Hydrocortisone,immune and allergic disorders,delayed wound healing,
+120,Triprolidine,inco-ordination angioedema,,respiratory depression
+121,Camphor,increase BMD,,
+122,Magnesium oxide,indigestion,,dizziness
+123,Bismuth Subsalicylate,indigestion,,
+124,Camphor,induction of ovulation,,
+125,Hydrocortisone,inflammatory and pruritic manifestations,inhibition of bone formation,
+126,Fluticasone Propionate,inflammatory symptoms,,
+127,Diphenhydramine,insect bite,,
+128,Ethanol,intractable chronic pain,,nausea
+129,Menthol,irritation,,
+130,Hydroxypropyl cellulose,irritation,,
+131,Naphazoline,Itching,,
+132,Ketotifen,itching of the eye due to allergic conjunctivitis,conjunctival injection,
+133,Fexofenadine,keratosis pilaris,,
+134,histamine dihydrochloride,leukemia (myeloid),,
+135,Galiximab,lymphoma,,
+136,Magnesium Sulfate,magnesium deficiency,diarrhea,
+137,histamine dihydrochloride,melanoma,,
+138,Levonorgestrel,menopausal disorders,,
+139,Sodium bicarbonate,metabolic acidosis,inhibition of bone formation,
+140,Ketotifen,mild atopic asthmatic children,headaches,
+141,Magnesium salicylate,mild to moderate muscular pain,anorexia,
+142,Acetaminophen,minor aches,,accumulation of NAPQI
+143,Phenol,minor mouth irritation,,
+144,Phenol,minor sore throat pain,,
+145,Diphenhydramine,motion sickness,,death
+146,Dimenhydrinate,motion sickness,,hallucinations
+147,Galiximab,multiple myeloma,,
+148,Mupirocin,nasal carriers,,
+149,Phenylephrine,nasal congestion,,
+150,Pseudoephedrine,nasal congestion,nervousness,
+151,Naphazoline,Nasal congestion,,
+152,Oxymetazoline,nasal congestion,,motor unrest
+153,Propylhexedrine,nasal congestion due to allergic rhinitis,,Burning sensation
+154,Propylhexedrine,nasal congestion due to allergies,,
+155,Propylhexedrine,nasal congestion due to colds,,Psychosis
+156,Meclizine,nausea,,drowsiness
+157,Bismuth Subsalicylate,nausea,,
+158,Cyclizine,nausea,,convulsions
+159,Diphenhydramine,nausea,,serious ventricular dysrhythmias
+160,Promethazine,nausea,,respiratory depression
+161,Dimenhydrinate,nausea associated with pregnancy,,excitment
+162,Hydroxypropyl cellulose,neuroparalytic keratitis,,
+163,Nicotine,nicotine withdrawal,,nausea
+164,Triprolidine,nonallergic rhinitis,,weakness 
+165,Fluticasone Propionate,non-allergic rhinitis,,
+166,Sodium lauryl sulfate,nonenveloped virus,,
+167,Orlistat,obesity,,
+168,Magnesium oxide,occasional constipation,,drowsiness 
+169,Levonorgestrel,oral contraceptive,,
+170,Ketoconazole,oral thrush,,
+171,Clotrimazole,oropharyngeal candidiasis,,erythema
+172,Caffeine,orthostatic hypotension,,
+173,Naproxen,osteoarthritis,,heartburn
+174,Camphor,osteoporosis,,
+175,Neomycin,otitis externa,,
+176,Pseudoephedrine,otitis media,increased sweating,
+177,Oxybutynin,overactive bladder,,
+178,Menthol,pain,,
+179,Phenol,pain associated with canker sores,,
+180,Methocarbamol,painful musculoskeletal conditions,,blurred vision
+181,Acetaminophen,pains,,hepatic necrosis
+182,Ketoconazole,paracoccidioidomycosis,,
+183,Omeprazole,pathological hypersecretory conditions,,diaphoresis
+184,Lansoprazole,peptic ulcer disease,,nausea
+185,Cimetidine,peptic ulcer disease,,vomiting
+186,Nizatidine,peptic ulcer disease,lacrimation,
+187,Ranitidine,peptic ulcer disease (PUD),,muscular tremors
+188,Famotidine,peptic ulcer disease (PUD),,emesis
+189,Desloratadine,perennial (non-seasonal) allergic rhinitis,,dizziness
+190,Cetirizine,perennial allergic rhinitis,,Somnolence
+191,Bacitracin,pneumonia,,
+192,Levonorgestrel,postmenopausal disorders,,
+193,Naproxen,primary dysmenorrhea,,
+194,Galiximab,prostate cancer,,
+195,Fluticasone Propionate,pruritic symptoms,,
+196,Loratadine,pruritus,,tachycardia
+197,Desloratadine,pruritus,,tachycardia
+198,Galiximab,psoriasis,,
+199,Fexofenadine,psoriasis,,
+200,Hydroxypropyl cellulose,recurrent corneal erosions,,
+201,Oxymetazoline,redness associated with minor irritations of the eye,,muscular twitching and rigidity
+202,Lidocaine,regional anesthesia,,convulsions
+203,Cinchocaine,regional anesthesia,,convulsions
+204,histamine dihydrochloride,renal cell carcinoma,,
+205,Naproxen,rheumatoid arthritis,,drowsiness
+206,Galiximab,rheumatoid arthritis,,
+207,Chlorphenamine,rhinitis,,
+208,Permethrin,scabies,,
+209,Vitamin C,scurvy,,
+210,Cetirizine,seasonal allergic rhinitis,,
+211,Loratadine,seasonal allergic rhinitis,,somnolence
+212,Desloratadine,seasonal allergic rhinitis,,hypotension
+213,Selenium Sulfide,seborrheic dermatitis of the scalp,,
+214,Cinacalcet,secondary hyperparathyroidism,,hypocalcemia
+215,Epinephrine,sepsis,,
+216,Minoxidil,severe hypertension,cardiovascular effects,
+217,Magnesium Sulfate,severe toxemias,hypotension,
+218,Bentoquatam,severity of allergic contact dermatitis,mild erythema,
+219,Phenylephrine,shock,,
+220,Pseudoephedrine,sinus congestion, restlessness,
+221,Pseudoephedrine,sinusitis,headache,
+222,Clemastine,skin allergic,,hallucinations
+223,Tolnaftate,skin infections,reproductive effector,
+224,Bacitracin,skin infections,,
+225,Nicotine,smoking cessation,,abdominal pain
+226,Menthol,sore mouth,,
+227,Phenol,sore mouth,,
+228,Menthol,sore throat,,
+229,Magnesium oxide,sour stomach,,faintness
+230,Mupirocin,Staphylococci,,
+231,Ranitidine,stress ulcer prophylaxis,,rapid respiration
+232,Neomycin,superficial eye infections,,
+233,Bismuth Subsalicylate,temporary discomforts of the stomach and gastrointestinal tract,,
+234,Naproxen,tendinitis,,nausea
+235,Potassium Iodide,thyrotoxicosis,,Burning sensation
+236,Terbinafine,tinea capitis,,
+237,Selenium Sulfide,tinea capitis,,
+238,Terbinafine,tinea corporis,,
+239,Miconazole,tinea corporis,,
+240,Terbinafine,tinea cruris,,
+241,Miconazole,tinea cruris,,
+242,Miconazole,tinea versicolor,,
+243,Selenium Sulfide,tinea versicolor,,
+244,Pseudoephedrine,tracheobronchitis,nausea,
+245,Insulin(isophane),type 1 or type 2 diabetes mellitus,,
+246,Kaolin,upset stomach,deaths among opiate addicts,
+247,Bismuth Subsalicylate,upset stomach,,
+248,Vitamin C,urine acidification,,
+249,Chlorphenamine,urticaria,,
+250,Desloratadine,urticaria (hives) associated with chronic idiopathic urticaria,,bradycardia
+251,Clotrimazole,vaginal yeast infections,,stinging
+252,Pseudoephedrine,vasomotor rhinitis,painful urination,
+253,Dimenhydrinate,vertigo,,delerium
+254,Cyclizine,vertigo(dizziness caused by other medical problems),,hypotension
+255,Diphenhydramine,Vertigo/Meniere's disease,, myocardial infarction(heart attack)
+256,Vitamin C,vitamin C deficiency,,
+257,Meclizine,vomiting,,anticholinergic effects
+258,Cyclizine,vomiting,,coma
+259,Diphenhydramine,vomiting,,coma 
+260,Promethazine,vomiting,,unconsciousness
+261,Tioconazole,vulvovaginal candidiasis (moniliasis),,erythema
+262,Fexofenadine,warts,,
+263,Bacitracin,wound infections,,
+264,Nicotine,,,vomiting
+265,Nicotine,,,diarrhea
+266,Nicotine,,,diaphoresis
+267,Nicotine,,,flushing
+268,Nicotine,,,dizziness
+269,Nicotine,,,disturbed hearing and vision
+270,Nicotine,,,confusion
+271,Nicotine,,,weakness
+272,Nicotine,,,palpitations
+273,Nicotine,,,altered respiration
+274,Nicotine,,,hypotension
+275,Fluconazole,,,paranoid behavior
+276,Clotrimazole,,,peeling
+277,Clotrimazole,,,edema
+278,Clotrimazole,,,pruritus
+279,Clotrimazole,,,urticaria
+280,Clotrimazole,,,burning
+281,Clotrimazole,,,general irritation of the skin
+282,Clotrimazole,,,cramps
+283,Lidocaine,,,hypoxia
+284,Lidocaine,,,acidosis
+285,Lidocaine,,,bradycardia
+286,Lidocaine,,,arrhythmias
+287,Lidocaine,,,cardiac arrest
+288,Clemastine,,,incoordination
+289,Clemastine,,,muscle twitching
+290,Clemastine,,,athetosis
+291,Clemastine,,,hyperthermia
+292,Clemastine,,,cyanosis convulsions
+293,Clemastine,,,tremors
+294,Clemastine,,,hyperreflexia
+295,Clemastine,,,postictal depression
+296,Clemastine,,,cardio-respiratory arrest
+297,Clemastine,,,mild depression
+298,Clemastine,,,dry mouth
+299,Clemastine,,,fixed dilated pupils
+300,Clemastine,,,flushing of the face
+301,Clemastine,,,fever
+302,Clemastine,,,CNS depression
+303,Clemastine,,,drowsiness
+304,Clemastine,,,coma
+305,Omeprazole,,,flushing
+306,Omeprazole,,,headache
+307,Omeprazole,,,dry mouth
+308,Cetirizine,,,irritability
+309,Minoxidil,,faintness,
+310,Minoxidil,,dizziness,
+311,Methocarbamol,,,coma
+312,Methocarbamol,,,drowsiness
+313,Methocarbamol,,,low blood pressure
+314,Methocarbamol,,,nausea
+315,Methocarbamol,,,seizures
+316,Triprolidine,,,convulsions
+317,Triprolidine,,,hypertension
+318,Triprolidine,,,palpitation 
+319,Triprolidine,,,tachycardia
+320,Loratadine,,,urticaria
+321,Cimetidine,,,difficulty breathing
+322,Cimetidine,,,fast heartbeat
+323,Cinchocaine,,,hypoxia
+324,Cinchocaine,,,bradycardia
+325,Cinchocaine,,,arrhythmias
+326,Cinchocaine,,,cardiac arrest
+327,Nizatidine,,miosis,
+328,Nizatidine,,diarrhea,
+329,Docosanol,,,increased serum lipase
+330,Docosanol,,,nausea
+331,Docosanol,,,dyspepsia
+332,Docosanol,,,dizziness
+333,Docosanol,,,hyperbilirubinemia
+334,Magnesium Sulfate,,CNS depression,
+335,Magnesium Sulfate,,respiratory depression,
+336,Loperamide,,,nausea 
+337,Pseudoephedrine,,trembling,
+338,Pseudoephedrine,,troubled breathing,
+339,Pseudoephedrine,,unusual paleness,
+340,Pseudoephedrine,,weakness,
+341,Ethanol,,,vomiting
+342,Ethanol,,,CNS depression
+343,Ethanol,,,acute respiratory failure
+344,Ethanol,,,liver damage
+345,Ethanol,,,brain damage
+346,Bisacodyl,,sour or metallic taste,
+347,Bisacodyl,,constipation,
+348,Bisacodyl,,retention of urine,
+349,Bisacodyl,,blurred vision and changes in focusing,
+350,Bisacodyl,,palpitations,
+351,Bisacodyl,,fast heart beat,
+352,Bisacodyl,,Gastrointestinal disturbances (including nausea and vomiting),
+353,Bisacodyl,,drowsiness,
+354,Bisacodyl,,tremor,
+355,Bisacodyl,,low blood pressure when standing,
+356,Bisacodyl,,dizziness,
+357,Bisacodyl,,sweating,
+358,Bisacodyl,,weakness and fatigue,
+359,Bisacodyl,,in-coordination, 
+360,Bisacodyl,,epilepsy-like seizures,
+361,Bisacodyl,,speech difficulties may occur,
+362,Nonoxynol-9,,vaginal irritation(male),
+363,Nonoxynol-9,,allergic vaginitis(male),
+364,Nonoxynol-9,,genital irritation(male),
+365,Ammonium lactate,,ichthyosis vulgaris,
+366,Ammonium lactate,,itching(temporary relief),
+367,Calcium carbonate,,hypermenorrhea,
+368,Calcium carbonate,,flatulence,
+369,Calcium carbonate,,impotence,
+370,Calcium carbonate,,vaginal dryness,
+371,Calcium carbonate,,nasal mucosa irritation,
+372,Calcium carbonate,,back pain,
+373,Aluminum hydroxide,,hot flashes,
+374,Aluminum hydroxide,,hypermenorrhea,
+375,Aluminum hydroxide,,flatulence,
+376,Aluminum hydroxide,,impotence,
+377,Aluminum hydroxide,,vaginal dryness,
+378,Aluminum hydroxide,,nasal mucosa irritation,
+379,Aluminum hydroxide,,back pain,
+380,Clofedanol,,,convulsions
+381,Clofedanol,,,muscle spasms or seizure
+382,Clofedanol,,,cardiac arrest
+383,Clofedanol,,,shortness or loss of breath
+384,Clofedanol,,,vomiting or nausea
+385,Clofedanol,,,coma
+386,Clofedanol,,,death
+387,Magnesium salicylate,,nausea,
+388,Magnesium salicylate,,vomiting,
+389,Magnesium salicylate,,diarrhoea,
+390,Magnesium salicylate,,confusion,
+391,Magnesium salicylate,,visual disturbances,
+392,Magnesium salicylate,,cardiac arrhythmias,
+393,Sodium bicarbonate,,immune suppression,
+394,Sodium bicarbonate,,hyperglycemia,
+395,Magnesium oxide,,,hyperactivity
+396,Magnesium oxide,,,agitation
+397,Magnesium oxide,,,severe headache
+398,Magnesium oxide,,,hallucinations
+399,Magnesium oxide,,,trismus
+400,Magnesium oxide,,,opisthotonos
+401,Magnesium oxide,,,convulsions
+402,Magnesium oxide,,,coma
+403,Magnesium oxide,,,rapid and irregular pulse
+404,Magnesium oxide,,,hypertension
+405,Magnesium oxide,,,hypotension
+406,Magnesium oxide,,,vascular collapse
+407,Magnesium oxide,,,precordial pain
+408,Magnesium oxide,,,respiratory depression and failure
+409,Magnesium oxide,,,hyperpyrexia
+410,Magnesium oxide,,,diaphoresis
+411,Magnesium oxide,,,cool
+412,Cyclizine,,,insomnia
+413,Cyclizine,,,nausea
+414,Cyclizine,,,vomiting
+415,Cyclizine,,,sinus tachycardia
+416,Cyclizine,,,somnolence
+417,Cyclizine,,,ECG changes(including QT prolongation)
+418,Promethazine,,,sudden death
+419,Promethazine,,,hyperreflexia
+420,Promethazine,,,hypertonia
+421,Promethazine,,,ataxia
+422,Promethazine,,,athetosis
+423,Promethazine,,,extensor-plantar reflexes
+424,Ibuprofen,,peripheral edema,dyspnea
+425,Ibuprofen,,fluid retention,hypotension
+426,Ibuprofen,,,hypertension
+427,Ibuprofen,,,rapid weak pulse
+428,Ibuprofen,,,delirium
+429,Ibuprofen,,,nausea
+430,Ibuprofen,,,vomiting
+431,Ibuprofen,,,bradycardia
+432,Tioconazole,,,stinging
+433,Tioconazole,,,blistering
+434,Tioconazole,,,peeling
+435,Tioconazole,,,edema
+436,Tioconazole,,,pruritus
+437,Tioconazole,,,urticaria
+438,Tioconazole,,,burning
+439,Tioconazole,,,general irritation of the skin
+440,Tioconazole,,,cramps
+441,Oxymetazoline,,,tremor
+442,Oxymetazoline,,,ataxia
+443,Oxymetazoline,,,convulsions
+444,Oxymetazoline,,,hyperpyrexia
+445,Oxymetazoline,,,vertigo
+446,Oxymetazoline,,,mydriasis
+447,Oxymetazoline,,,vomiting
+448,Oxymetazoline,,,cyanosis
+449,Oxymetazoline,,,hypotension
+450,Oxymetazoline,,,shock
+451,Oxymetazoline,,,tachycardia
+452,Oxymetazoline,,,cardiac arrhythmias
+453,Oxymetazoline,,,impaired cardiac conduction
+454,Oxymetazoline,,,respiratory depression
+455,Oxymetazoline,,,disturbances of consciousness up to deep coma
+456,Famotidine,,,pallor of mucous membranes or redness of mouth and ears
+457,Famotidine,,,hypotension
+458,Famotidine,,,tachycardia
+459,Famotidine,,,collapse
+460,Ketotifen,,rhinitis,
+512,Cimetidine,acid indigestion,,increased saliva production
+513,Calcium carbonate,acid indigestion,loss of libido in patients with prostate cancer,
+514,Aluminum hydroxide,acid indigestion,loss of libido in patients with prostate cancer,
+515,Cinchocaine,acidosis,,
+516,Lansoprazole,acid-reflux disorders (GERD),,abdominal pain
+517,Cimetidine,acid-reflux disorders (GERD),,nausea
+518,Nizatidine,acid-reflux disorders (GERD),cholinergic-type effects,
+519,Fexofenadine,acne,,
+520,Nizatidine,active benign gastric ulcer,salivation,
+521,Nizatidine,active duodenal ulcer,emesis,
+522,Naproxen,acute goat,, 
+523,Magnesium Sulfate,acute nephritis,ECG changes,
+524,Loperamide,acute nonspecific diarrhea,,constipation
+525,Guaifenesin,acute respiratory tract infections,,
+526,Triprolidine,agitation,,irritability
+527,Triprolidine,allergic conjunctivitis,,difficulty with micturition
+528,Promethazine,allergic disorders,,hypotension
+529,Clemastine,allergic rhinitis,,excitement
+530,Triprolidine,allergic rhinitis,,drowsiness
+531,Fluticasone Propionate,allergic rhinitis,,
+532,Pseudoephedrine,allergic rhinitis,dizziness,
+533,Chlorphenamine,allergy,,
+534,Epinephrine,anaphylaxis,,
+535,Minoxidil,androgenic alopecia,sudden weight gain,
+536,Naproxen,ankylosing spondylitis,,indigestion
+537,Caffeine,apnea,,
+538,Fluticasone Propionate,asthma,,
+539,Chlorphenamine,asthma,,
+540,Gentian Violet,bacterial infections,,gastrointestinal irritation
+541,Omeprazole,benign gastric ulcers,,drowsiness 
+542,Ketoconazole,blastomycosis,,
+543,Vitamin C,bone healing,,
+544,Galiximab,bone metastases,,
+545,Naproxen,bursitis,,vomiting
+546,Fexofenadine,callouses,,
+547,Ketoconazole,candidiasis,,
+548,Ketoconazole,candiduria,,
+549,Acetazolamide,centrencephalic epilepsies,,
+550,Gentian Violet,Chagas' disease,,
+551,Ketoconazole,chromomycosis,,
+552,Loperamide,chronic diarrhea,,drowsiness
+553,Cetirizine,chronic idiopathic urticaria,,restlessness
+554,Ketoconazole,chronic mucocutaneous candidiasis,,
+555,Acetazolamide,chronic simple glaucoma,,
+556,Bisacodyl,cleansing of the colon,dry mouth,
+557,Ketoconazole,coccidioidomycosis,,
+558,Docosanol,cold sores,,headache
+559,Clemastine,common cold,,ataxia
+560,Triprolidine,common cold,,hypotension 
+561,Chlorphenamine,common cold,,
+562,Amiloride,congestive heart failure,,dehydration 
+563,Lactulose,constipation,diarrhea,
+564,Phenolphthalein,constipation,,
+565,Nonoxynol-9,contraception,opportunistic infections,
+566,Naphazoline,Corneal vascularity,rebound congestion,degenerative changes in nasal mucous membranes
+567,Fexofenadine,corns,,
+568,Menthol,cough,,
+569,Pseudoephedrine,croup,heart palpitations,
+570,Miconazole,cutaneous candidiasis,,
+571,Selenium Sulfide,dandruff,,
+572,Hydroxypropyl cellulose,decreased corneal sensitivity,,
+573,Vitamin C,delayed wound,, 
+574,Chlorhexidine,dental caries,,
+575,Terbinafine,dermatophyte infections,,
+576,Insulin Regular,diabetes mellitus,Hypoglycemia,
+577,Kaolin,diarrhea,,
+578,Bismuth Subsalicylate,diarrhea,,
+579,Sodium bicarbonate,diarrhea which is often accompanied by a significant loss of bicarbonate,suppression of calcium absorption delayed wound healing,
+580,Meclizine,dizziness,,
+581,Cyclizine,dizziness associated with motion sickness,,dizziness
+582,Acetazolamide,drug-induced edema,,
+583,Ammonium lactate,dry and scaly skin (xerosis),,
+584,Dextromethorphan,dry cough,,
+585,Clofedanol,dry cough,,delirium
+586,Hydroxypropyl cellulose,dryness,,
+587,Omeprazole,duodenal ulcers,,confusion
+588,Ranitidine,dyspepsia,,vomiting
+589,Acetazolamide,edema due to congestive heart failure,,
+590,Bacitracin,empyema,,
+591,Hydrocortisone,endocrine disorders,suppression of calcium absorption,
+592,Sodium lauryl sulfate,enveloped virus,,
+593,Omeprazole,erosive esophagitis,,nausea
+594,Loratadine,erythema,,headache
+595,Pseudoephedrine,Eustachian tube congestion,insomnia,
+596,Bacitracin,eye infections,,
+597,Caffeine,fatigue,,
+598,Acetaminophen,fever,,glutathione depletion
+599,Docosanol,fever blisters,,abdominal pain
+600,Phenol,focal spasticity,,
+601,Fluconazole,fungal infections,,hallucinations
+602,Clotrimazole,fungal infections,,blistering
+603,Gentian Violet,fungal infections,,
+604,Benzocaine,gag reflex,,
+605,Loperamide,gastroenteritis,,lethargy
+606,Omeprazole,gastroesophageal reflux disease (GERD),,blurred vision
+607,Ranitidine,gastroesophageal reflux disease (GERD),,
+608,Famotidine,gastroesophageal reflux disease (GERD),,restlessness
+609,Lansoprazole,gastroinetestinal bleeds,,
+610,Lansoprazole,H. pylori eradication,,diarrhea
+611,Minoxidil,hair loss,rapid heart beat,
+612,Chlorhexidine,hand hygiene,,
+613,Chlorphenamine,hay fever,,
+614,Benzyl alcohol,head lice infestation,,
+615,Omeprazole,heartburn,,tachycardia
+616,Cimetidine,heartburn,,diarrhea
+617,Calcium carbonate,heartburn,headache,
+618,Aluminum hydroxide,heartburn,headache,
+619,Magnesium oxide,heartburn,,irritability
+620,Bismuth Subsalicylate,heartburn,,
+621,Lactulose,hepatic encephalopathy,resultant dehydration,
+622,histamine dihydrochloride,hepatitis (viral, C),
+623,Ketoconazole,histoplasmosis,,
+624,Naphazoline,Hyperaemia,,
+625,Amiloride,hypertension,,electrolyte imbalance
+626,Potassium Iodide,hyperthyroidism,,Psychosis
+627,Calcium carbonate,hypocalcemia,hot flashes,
+628,Magnesium Sulfate,hypomagnesemia,urinary retention,
+629,Phenylephrine,hypotension,,
+630,Hydrocortisone,immune and allergic disorders,delayed wound healing,
+631,Triprolidine,inco-ordination angioedema,,respiratory depression
+632,Camphor,increase BMD,,
+633,Magnesium oxide,indigestion,,dizziness
+634,Bismuth Subsalicylate,indigestion,,
+635,Camphor,induction of ovulation,,
+636,Hydrocortisone,inflammatory and pruritic manifestations,inhibition of bone formation,
+637,Fluticasone Propionate,inflammatory symptoms,,
+638,Diphenhydramine,insect bite,,
+639,Ethanol,intractable chronic pain,,nausea
+640,Menthol,irritation,,
+641,Hydroxypropyl cellulose,irritation,,
+642,Naphazoline,Itching,,
+643,Ketotifen,itching of the eye due to allergic conjunctivitis,conjunctival injection,
+644,Fexofenadine,keratosis pilaris,,
+645,histamine dihydrochloride,leukemia (myeloid),,
+646,Galiximab,lymphoma,,
+647,Magnesium Sulfate,magnesium deficiency,diarrhea,
+648,histamine dihydrochloride,melanoma,,
+649,Levonorgestrel,menopausal disorders,,
+650,Sodium bicarbonate,metabolic acidosis,inhibition of bone formation,
+651,Ketotifen,mild atopic asthmatic children,headaches,
+652,Magnesium salicylate,mild to moderate muscular pain,anorexia,
+653,Acetaminophen,minor aches,,accumulation of NAPQI
+654,Phenol,minor mouth irritation,,
+655,Phenol,minor sore throat pain,,
+656,Diphenhydramine,motion sickness,,death
+657,Dimenhydrinate,motion sickness,,hallucinations
+658,Galiximab,multiple myeloma,,
+659,Mupirocin,nasal carriers,,
+660,Phenylephrine,nasal congestion,,
+661,Pseudoephedrine,nasal congestion,nervousness,
+662,Naphazoline,Nasal congestion,,
+663,Oxymetazoline,nasal congestion,,motor unrest
+664,Propylhexedrine,nasal congestion due to allergic rhinitis,,Burning sensation
+665,Propylhexedrine,nasal congestion due to allergies,,
+666,Propylhexedrine,nasal congestion due to colds,,Psychosis
+667,Meclizine,nausea,,drowsiness
+668,Bismuth Subsalicylate,nausea,,
+669,Cyclizine,nausea,,convulsions
+670,Diphenhydramine,nausea,,serious ventricular dysrhythmias
+671,Promethazine,nausea,,respiratory depression
+672,Dimenhydrinate,nausea associated with pregnancy,,excitment
+673,Hydroxypropyl cellulose,neuroparalytic keratitis,,
+674,Nicotine,nicotine withdrawal,,nausea
+675,Triprolidine,nonallergic rhinitis,,weakness 
+676,Fluticasone Propionate,non-allergic rhinitis,,
+677,Sodium lauryl sulfate,nonenveloped virus,,
+678,Orlistat,obesity,,
+679,Magnesium oxide,occasional constipation,,drowsiness 
+680,Levonorgestrel,oral contraceptive,,
+681,Ketoconazole,oral thrush,,
+682,Clotrimazole,oropharyngeal candidiasis,,erythema
+683,Caffeine,orthostatic hypotension,,
+684,Naproxen,osteoarthritis,,heartburn
+685,Camphor,osteoporosis,,
+686,Neomycin,otitis externa,,
+687,Pseudoephedrine,otitis media,increased sweating,
+688,Oxybutynin,overactive bladder,,
+689,Menthol,pain,,
+690,Phenol,pain associated with canker sores,,
+691,Methocarbamol,painful musculoskeletal conditions,,blurred vision
+692,Acetaminophen,pains,,hepatic necrosis
+693,Ketoconazole,paracoccidioidomycosis,,
+694,Omeprazole,pathological hypersecretory conditions,,diaphoresis
+695,Lansoprazole,peptic ulcer disease,,nausea
+696,Cimetidine,peptic ulcer disease,,vomiting
+697,Nizatidine,peptic ulcer disease,lacrimation,
+698,Ranitidine,peptic ulcer disease (PUD),,muscular tremors
+699,Famotidine,peptic ulcer disease (PUD),,emesis
+700,Desloratadine,perennial (non-seasonal) allergic rhinitis,,dizziness
+701,Cetirizine,perennial allergic rhinitis,,Somnolence
+702,Bacitracin,pneumonia,,
+703,Levonorgestrel,postmenopausal disorders,,
+704,Naproxen,primary dysmenorrhea,,
+705,Galiximab,prostate cancer,,
+706,Fluticasone Propionate,pruritic symptoms,,
+707,Loratadine,pruritus,,tachycardia
+708,Desloratadine,pruritus,,tachycardia
+709,Galiximab,psoriasis,,
+710,Fexofenadine,psoriasis,,
+711,Hydroxypropyl cellulose,recurrent corneal erosions,,
+712,Oxymetazoline,redness associated with minor irritations of the eye,,muscular twitching and rigidity
+713,Lidocaine,regional anesthesia,,convulsions
+714,Cinchocaine,regional anesthesia,,convulsions
+715,histamine dihydrochloride,renal cell carcinoma,,
+716,Naproxen,rheumatoid arthritis,,drowsiness
+717,Galiximab,rheumatoid arthritis,,
+718,Chlorphenamine,rhinitis,,
+719,Permethrin,scabies,,
+720,Vitamin C,scurvy,,
+721,Cetirizine,seasonal allergic rhinitis,,
+722,Loratadine,seasonal allergic rhinitis,,somnolence
+723,Desloratadine,seasonal allergic rhinitis,,hypotension
+724,Selenium Sulfide,seborrheic dermatitis of the scalp,,
+725,Cinacalcet,secondary hyperparathyroidism,,hypocalcemia
+726,Epinephrine,sepsis,,
+727,Minoxidil,severe hypertension,cardiovascular effects,
+728,Magnesium Sulfate,severe toxemias,hypotension,
+729,Bentoquatam,severity of allergic contact dermatitis,mild erythema,
+730,Phenylephrine,shock,,
+731,Pseudoephedrine,sinus congestion, restlessness,
+732,Pseudoephedrine,sinusitis,headache,
+733,Clemastine,skin allergic,,hallucinations
+734,Tolnaftate,skin infections,reproductive effector,
+735,Bacitracin,skin infections,,
+736,Nicotine,smoking cessation,,abdominal pain
+737,Menthol,sore mouth,,
+738,Phenol,sore mouth,,
+739,Menthol,sore throat,,
+740,Magnesium oxide,sour stomach,,faintness
+741,Mupirocin,Staphylococci,,
+742,Ranitidine,stress ulcer prophylaxis,,rapid respiration
+743,Neomycin,superficial eye infections,,
+744,Bismuth Subsalicylate,temporary discomforts of the stomach and gastrointestinal tract,,
+745,Naproxen,tendinitis,,nausea
+746,Potassium Iodide,thyrotoxicosis,,Burning sensation
+747,Terbinafine,tinea capitis,,
+748,Selenium Sulfide,tinea capitis,,
+749,Terbinafine,tinea corporis,,
+750,Miconazole,tinea corporis,,
+751,Terbinafine,tinea cruris,,
+752,Miconazole,tinea cruris,,
+753,Miconazole,tinea versicolor,,
+754,Selenium Sulfide,tinea versicolor,,
+755,Pseudoephedrine,tracheobronchitis,nausea,
+756,Insulin(isophane),type 1 or type 2 diabetes mellitus,,
+757,Kaolin,upset stomach,deaths among opiate addicts,
+758,Bismuth Subsalicylate,upset stomach,,
+759,Vitamin C,urine acidification,,
+760,Chlorphenamine,urticaria,,
+761,Desloratadine,urticaria (hives) associated with chronic idiopathic urticaria,,bradycardia
+762,Clotrimazole,vaginal yeast infections,,stinging
+763,Pseudoephedrine,vasomotor rhinitis,painful urination,
+764,Dimenhydrinate,vertigo,,delerium
+765,Cyclizine,vertigo(dizziness caused by other medical problems),,hypotension
+766,Diphenhydramine,Vertigo/Meniere's disease,, myocardial infarction(heart attack)
+767,Vitamin C,vitamin C deficiency,,
+768,Meclizine,vomiting,,anticholinergic effects
+769,Cyclizine,vomiting,,coma
+770,Diphenhydramine,vomiting,,coma 
+771,Promethazine,vomiting,,unconsciousness
+772,Tioconazole,vulvovaginal candidiasis (moniliasis),,erythema
+773,Fexofenadine,warts,,
+774,Bacitracin,wound infections,,
+775,Nicotine,,,vomiting
+776,Nicotine,,,diarrhea
+777,Nicotine,,,diaphoresis
+778,Nicotine,,,flushing
+779,Nicotine,,,dizziness
+780,Nicotine,,,disturbed hearing and vision
+781,Nicotine,,,confusion
+782,Nicotine,,,weakness
+783,Nicotine,,,palpitations
+784,Nicotine,,,altered respiration
+785,Nicotine,,,hypotension
+786,Fluconazole,,,paranoid behavior
+787,Clotrimazole,,,peeling
+788,Clotrimazole,,,edema
+789,Clotrimazole,,,pruritus
+790,Clotrimazole,,,urticaria
+791,Clotrimazole,,,burning
+792,Clotrimazole,,,general irritation of the skin
+793,Clotrimazole,,,cramps
+794,Lidocaine,,,hypoxia
+795,Lidocaine,,,acidosis
+796,Lidocaine,,,bradycardia
+797,Lidocaine,,,arrhythmias
+798,Lidocaine,,,cardiac arrest
+799,Clemastine,,,incoordination
+800,Clemastine,,,muscle twitching
+801,Clemastine,,,athetosis
+802,Clemastine,,,hyperthermia
+803,Clemastine,,,cyanosis convulsions
+804,Clemastine,,,tremors
+805,Clemastine,,,hyperreflexia
+806,Clemastine,,,postictal depression
+807,Clemastine,,,cardio-respiratory arrest
+808,Clemastine,,,mild depression
+809,Clemastine,,,dry mouth
+810,Clemastine,,,fixed dilated pupils
+811,Clemastine,,,flushing of the face
+812,Clemastine,,,fever
+813,Clemastine,,,CNS depression
+814,Clemastine,,,drowsiness
+815,Clemastine,,,coma
+816,Omeprazole,,,flushing
+817,Omeprazole,,,headache
+818,Omeprazole,,,dry mouth
+819,Cetirizine,,,irritability
+820,Minoxidil,,faintness,
+821,Minoxidil,,dizziness,
+822,Methocarbamol,,,coma
+823,Methocarbamol,,,drowsiness
+824,Methocarbamol,,,low blood pressure
+825,Methocarbamol,,,nausea
+826,Methocarbamol,,,seizures
+827,Triprolidine,,,convulsions
+828,Triprolidine,,,hypertension
+829,Triprolidine,,,palpitation 
+830,Triprolidine,,,tachycardia
+831,Loratadine,,,urticaria
+832,Cimetidine,,,difficulty breathing
+833,Cimetidine,,,fast heartbeat
+834,Cinchocaine,,,hypoxia
+835,Cinchocaine,,,bradycardia
+836,Cinchocaine,,,arrhythmias
+837,Cinchocaine,,,cardiac arrest
+838,Nizatidine,,miosis,
+839,Nizatidine,,diarrhea,
+840,Docosanol,,,increased serum lipase
+841,Docosanol,,,nausea
+842,Docosanol,,,dyspepsia
+843,Docosanol,,,dizziness
+844,Docosanol,,,hyperbilirubinemia
+845,Magnesium Sulfate,,CNS depression,
+846,Magnesium Sulfate,,respiratory depression,
+847,Loperamide,,,nausea 
+848,Pseudoephedrine,,trembling,
+849,Pseudoephedrine,,troubled breathing,
+850,Pseudoephedrine,,unusual paleness,
+851,Pseudoephedrine,,weakness,
+852,Ethanol,,,vomiting
+853,Ethanol,,,CNS depression
+854,Ethanol,,,acute respiratory failure
+855,Ethanol,,,liver damage
+856,Ethanol,,,brain damage
+857,Bisacodyl,,sour or metallic taste,
+858,Bisacodyl,,constipation,
+859,Bisacodyl,,retention of urine,
+860,Bisacodyl,,blurred vision and changes in focusing,
+861,Bisacodyl,,palpitations,
+862,Bisacodyl,,fast heart beat,
+863,Bisacodyl,,Gastrointestinal disturbances (including nausea and vomiting),
+864,Bisacodyl,,drowsiness,
+865,Bisacodyl,,tremor,
+866,Bisacodyl,,low blood pressure when standing,
+867,Bisacodyl,,dizziness,
+868,Bisacodyl,,sweating,
+869,Bisacodyl,,weakness and fatigue,
+870,Bisacodyl,,in-coordination, 
+871,Bisacodyl,,epilepsy-like seizures,
+872,Bisacodyl,,speech difficulties may occur,
+873,Nonoxynol-9,,vaginal irritation(male),
+874,Nonoxynol-9,,allergic vaginitis(male),
+875,Nonoxynol-9,,genital irritation(male),
+876,Ammonium lactate,,ichthyosis vulgaris,
+877,Ammonium lactate,,itching(temporary relief),
+878,Calcium carbonate,,hypermenorrhea,
+879,Calcium carbonate,,flatulence,
+880,Calcium carbonate,,impotence,
+881,Calcium carbonate,,vaginal dryness,
+882,Calcium carbonate,,nasal mucosa irritation,
+883,Calcium carbonate,,back pain,
+884,Aluminum hydroxide,,hot flashes,
+885,Aluminum hydroxide,,hypermenorrhea,
+886,Aluminum hydroxide,,flatulence,
+887,Aluminum hydroxide,,impotence,
+888,Aluminum hydroxide,,vaginal dryness,
+889,Aluminum hydroxide,,nasal mucosa irritation,
+890,Aluminum hydroxide,,back pain,
+891,Clofedanol,,,convulsions
+892,Clofedanol,,,muscle spasms or seizure
+893,Clofedanol,,,cardiac arrest
+894,Clofedanol,,,shortness or loss of breath
+895,Clofedanol,,,vomiting or nausea
+896,Clofedanol,,,coma
+897,Clofedanol,,,death
+898,Magnesium salicylate,,nausea,
+899,Magnesium salicylate,,vomiting,
+900,Magnesium salicylate,,diarrhoea,
+901,Magnesium salicylate,,confusion,
+902,Magnesium salicylate,,visual disturbances,
+903,Magnesium salicylate,,cardiac arrhythmias,
+904,Sodium bicarbonate,,immune suppression,
+905,Sodium bicarbonate,,hyperglycemia,
+906,Magnesium oxide,,,hyperactivity
+907,Magnesium oxide,,,agitation
+908,Magnesium oxide,,,severe headache
+909,Magnesium oxide,,,hallucinations
+910,Magnesium oxide,,,trismus
+911,Magnesium oxide,,,opisthotonos
+912,Magnesium oxide,,,convulsions
+913,Magnesium oxide,,,coma
+914,Magnesium oxide,,,rapid and irregular pulse
+915,Magnesium oxide,,,hypertension
+916,Magnesium oxide,,,hypotension
+917,Magnesium oxide,,,vascular collapse
+918,Magnesium oxide,,,precordial pain
+919,Magnesium oxide,,,respiratory depression and failure
+920,Magnesium oxide,,,hyperpyrexia
+921,Magnesium oxide,,,diaphoresis
+922,Magnesium oxide,,,cool
+923,Cyclizine,,,insomnia
+924,Cyclizine,,,nausea
+925,Cyclizine,,,vomiting
+926,Cyclizine,,,sinus tachycardia
+927,Cyclizine,,,somnolence
+928,Cyclizine,,,ECG changes(including QT prolongation)
+929,Promethazine,,,sudden death
+930,Promethazine,,,hyperreflexia
+931,Promethazine,,,hypertonia
+932,Promethazine,,,ataxia
+933,Promethazine,,,athetosis
+934,Promethazine,,,extensor-plantar reflexes
+935,Ibuprofen,,peripheral edema,dyspnea
+936,Ibuprofen,,fluid retention,hypotension
+937,Ibuprofen,,,hypertension
+938,Ibuprofen,,,rapid weak pulse
+939,Ibuprofen,,,delirium
+940,Ibuprofen,,,nausea
+941,Ibuprofen,,,vomiting
+942,Ibuprofen,,,bradycardia
+943,Tioconazole,,,stinging
+944,Tioconazole,,,blistering
+945,Tioconazole,,,peeling
+946,Tioconazole,,,edema
+947,Tioconazole,,,pruritus
+948,Tioconazole,,,urticaria
+949,Tioconazole,,,burning
+950,Tioconazole,,,general irritation of the skin
+951,Tioconazole,,,cramps
+952,Oxymetazoline,,,tremor
+953,Oxymetazoline,,,ataxia
+954,Oxymetazoline,,,convulsions
+955,Oxymetazoline,,,hyperpyrexia
+956,Oxymetazoline,,,vertigo
+957,Oxymetazoline,,,mydriasis
+958,Oxymetazoline,,,vomiting
+959,Oxymetazoline,,,cyanosis
+960,Oxymetazoline,,,hypotension
+961,Oxymetazoline,,,shock
+962,Oxymetazoline,,,tachycardia
+963,Oxymetazoline,,,cardiac arrhythmias
+964,Oxymetazoline,,,impaired cardiac conduction
+965,Oxymetazoline,,,respiratory depression
+966,Oxymetazoline,,,disturbances of consciousness up to deep coma
+967,Famotidine,,,pallor of mucous membranes or redness of mouth and ears
+968,Famotidine,,,hypotension
+969,Famotidine,,,tachycardia
+970,Famotidine,,,collapse
+971,Ketotifen,,rhinitis,

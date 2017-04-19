@@ -1,0 +1,39 @@
+mysql> describe drug_info;
++-------------------+---------------+------+-----+---------+-------+
+| Field             | Type          | Null | Key | Default | Extra |
++-------------------+---------------+------+-----+---------+-------+
+| id                | int(11)       | NO   | PRI | NULL    |       |
+| name              | varchar(255)  | YES  |     | NULL    |       |
+| access_no         | varchar(10)   | YES  |     | NULL    |       |
+| grp               | varchar(20)   | YES  |     | NULL    |       |
+| description       | varchar(2500) | YES  |     | NULL    |       |
+| indication        | varchar(2000) | YES  |     | NULL    |       |
+| toxicity          | varchar(9000) | YES  |     | NULL    |       |
+| food_interactions | varchar(1000) | YES  |     | NULL    |       |
++-------------------+---------------+------+-----+---------+-------+
+8 rows in set (0.01 sec)
+
+mysql> describe drug_intr;
++-------------+---------------+------+-----+---------+-------+
+| Field       | Type          | Null | Key | Default | Extra |
++-------------+---------------+------+-----+---------+-------+
+| id          | int(11)       | NO   |     | NULL    |       |
+| name        | varchar(255)  | YES  |     | NULL    |       |
+| access_no   | varchar(10)   | YES  |     | NULL    |       |
+| description | varchar(2500) | YES  |     | NULL    |       |
++-------------+---------------+------+-----+---------+-------+
+4 rows in set (0.00 sec)
+
+mysql> describe otc;
++-------+--------------+------+-----+---------+----------------+
+| Field | Type         | Null | Key | Default | Extra          |
++-------+--------------+------+-----+---------+----------------+
+| id    | int(11)      | NO   | PRI | NULL    | auto_increment |
+| name  | varchar(50)  | YES  |     | NULL    |                |
+| ind   | varchar(300) | YES  |     | NULL    |                |
+| tox   | varchar(300) | YES  |     | NULL    |                |
+| over  | varchar(300) | YES  |     | NULL    |                |
++-------+--------------+------+-----+---------+----------------+
+
+
+
